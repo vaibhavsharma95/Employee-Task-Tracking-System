@@ -1,5 +1,6 @@
 # Employee-Task-Tracking-System
-It is a project created using NetBeans and this project has two segments one is for Employee and other is for admi(Boss). 
+It is a project created using NetBeans and this project has two segments one is for Employee and other is for admin(Boss).
+Create database name "etts" and import the sql file
 Admin will ablw to assign projects to employee and monitor the work done bye the employee.
 Admin will be able to search each employee in company and guide them.
 Admin will recieve leave request from all emloyee and respond to them.
